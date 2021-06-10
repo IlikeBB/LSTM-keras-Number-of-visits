@@ -5,6 +5,12 @@ tensorflow: 2.2.x</br>
 keras: 2.4.3</br>
 <h3>Results</h3>
 <br>
-<img src="https://github.com/IlikeBB/F3D-fully-3D-detector-for-joint-segmentation-and-classification-for-ischemic-stroke/blob/main/train_test.png">
+<img src="https://github.com/IlikeBB/LSTM-keras-Number-of-visits/blob/main/Results/%20Results%20Plot%20test%20-%20base%20lstm%2014:30:37.jpg">
+<br>
+<img src="https://github.com/IlikeBB/LSTM-keras-Number-of-visits/blob/main/Results/%20Results%20Plot%20test%20-%20stack%20lstm%2014:30:38.jpg">
+<br>
+<img src="https://github.com/IlikeBB/LSTM-keras-Number-of-visits/blob/main/Results/%20Results%20Plot%20test%20-%20bidirect%20lstm%2014:30:38.jpg">
+<br>
+<img src="https://github.com/IlikeBB/LSTM-keras-Number-of-visits/blob/main/Results/plot%20baseline%20and%20predictions%20test%20-%2014:30:38.jpg">
 <br>
 
