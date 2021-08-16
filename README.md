@@ -1,8 +1,6 @@
 # LSTM-keras-Number-of-visits
 
 <h3>Environment</h3>
-tensorflow: 2.2.x</br>
-keras: 2.4.3</br>
 
 ```
 conda env create --file lstm_tf2.yml
